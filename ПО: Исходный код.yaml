@@ -155,3 +155,4 @@
     - "[ ] a. @R11 [Избавьтесь от лишних стадий сборки Dockerfile](https://dvmn.org/reviews/enhancements/decrease-stage-count-in-dockerfile/)"
     - "[ ] b. @R11 [Замените Dockerfile на стандартный образ](https://dvmn.org/reviews/enhancements/replace-dockerfile-with-common-image/)"
   - "[ ] T14. @R11 [Разделите конфиги docker compose для разных окружений](https://dvmn.org/reviews/enhancements/spit-dockerized-app-deploy-configs-by-envs/)"
+  - "[ ] T15. @R11 [Избавьтесь от лишних обёрток](https://dvmn.org/reviews/enhancements/remove-extra-wrappers/)"
